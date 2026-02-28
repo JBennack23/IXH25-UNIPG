@@ -29,11 +29,11 @@ Libraries used in the project are declared in `requirements.txt` file.
 
 The team is composed by (alphabetic order):
 
-- Alessia Zollo: [@alessiazollo](https://github.com/alessiazollo).
-- Alfonso Esposito: [@alfonsoesposito548](https://github.com/alfonsoesposito548).
-- Benedetta Zibetti: [@benedettazibetti](https://github.com/benedettazibetti).
-- Benedetto Manoni: [@JBennack23](https://github.com/JBennack23).
-- Federica Scuotto: [@FedericaScuotto](https://github.com/FedericaScuotto).
-- Nicolò Gizzi: [@Nicolo-Gizzi19](https://github.com/Nicolo-Gizzi19).
-- Riccardo Mainardi: [@RiccardoMain](https://github.com/Nicolo-Gizzi19).
-- Teresa Perioli: [@talybessa](https://github.com/talybessa).
+- [@alessiazollo](https://github.com/alessiazollo).
+- [@alfonsoesposito548](https://github.com/alfonsoesposito548).
+- [@benedettazibetti](https://github.com/benedettazibetti).
+- [@JBennack23](https://github.com/JBennack23).
+- [@FedericaScuotto](https://github.com/FedericaScuotto).
+- [@Nicolo-Gizzi19](https://github.com/Nicolo-Gizzi19).
+- [@RiccardoMain](https://github.com/Nicolo-Gizzi19).
+- [@talybessa](https://github.com/talybessa).
